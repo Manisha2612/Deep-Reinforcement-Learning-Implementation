@@ -5,3 +5,5 @@ In this project, we study how to construct an RL Mario controller agent, which c
 We aim to study how to adapt and improve the Atari Deep Q Network to train a Mario controller agent, which can learn from the game raw pixel data and in-game score.
 
 <img src="videos/mario.jfif"/>
+
+<img src="Capture.PNG"/>
