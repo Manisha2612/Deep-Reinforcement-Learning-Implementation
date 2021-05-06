@@ -5,7 +5,7 @@ In this project, we have implemented deep reinforcement learning using DQN and D
 
 Convolution Neural Network:
 
-<img src="img/Model Diagram.png" width="400"/>
+<img src="img/Model Diagram.png" width="700"/>
 
 DQN, DDQN, PER results for CartPole-v0 and LunarLander-v2
 <p float="left">
