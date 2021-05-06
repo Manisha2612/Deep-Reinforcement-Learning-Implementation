@@ -16,9 +16,14 @@ DQN, DDQN, PER results for CartPole-v0 and LunarLander-v2
  Super Mario Results:
   <img src="img/Presentation1.png" width="800"/>
   
-  Quantile Regression Results
+  Quantile Regression Results 
+  
+  CartPole and LunarLander
   <p float="left">
 <img src="img/QR_CartPole.png" width="400"/>
-<img src="img/QR_LunarLander.png" width="400"/>
- </p>
+<img src="img/QR_LunarLander.png" width="400"/></p>
+
+Super Mario Bros
+<img src="img/QR_superMario.jpeg" width="600"/>
+
  
